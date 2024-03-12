@@ -5,7 +5,8 @@ import Something from "./random-component";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <Something />
+      <h2>hi matt</h2>
+      {/* <Something /> */}
     </main>
   );
 }
